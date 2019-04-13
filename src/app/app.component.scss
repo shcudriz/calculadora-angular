@@ -1,0 +1,15 @@
+$main-color:#999999;
+.card{
+    background: rgb(224, 225, 233);
+    margin: 10px auto;
+    text-align: center;
+    width: 400px;
+    .form{
+        .field{
+            width:100%;
+            .input{
+                color:$main-color;
+            }
+        }
+    }
+}
